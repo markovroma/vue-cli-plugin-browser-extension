@@ -1,0 +1,3 @@
+/*
+    Extension Background Script
+ */
