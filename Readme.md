@@ -1,4 +1,4 @@
-# vue-cli-plugin-browser-extension
+# vue-cli-plugin-simple-extension
 
 > browser-extension plugin for vue-cli
 
