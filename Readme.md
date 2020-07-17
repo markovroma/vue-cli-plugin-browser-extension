@@ -33,7 +33,7 @@ Every extension has a JSON-formatted manifest file, named manifest.json, that pr
 ## Installing in an Already Created Project
 
 ``` sh
-vue add browser-extension
+vue add simple-extension
 ```
 
 ## Building Extension

@@ -1,5 +1,5 @@
 {
-  "name": "@rmarkov/vue-cli-plugin-browser-extension",
+  "name": "@rmarkov/vue-cli-plugin-simple-extension",
   "version": "1.0.0",
   "description": "vue-cli plugin transform to browser extension",
   "main": "index.js",
